@@ -1,0 +1,10 @@
+{
+  "nombre": "Rafael Alexander",
+  "edad": 18,
+  "materias": [
+    "Logica de Programacion",
+    "Desarrollo del Pensamiento Matematico",
+    "Administracion de Sistemas Operativos"
+  ],
+  "activo": true
+}
